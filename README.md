@@ -11,19 +11,13 @@ This project is a web scraper designed to fetch search results from the Amazon w
 
 ### Getting Started
 
-1. Navigate to the project directory:
-
-    ```bash
-    cd node-scrape
-    ```
-
-2. Install the dependencies:
+1. Install the dependencies:
 
     ```
     npm install
     ```
 
-3. Execution
+2. Execution
 
    Start the server:
 
@@ -33,11 +27,11 @@ This project is a web scraper designed to fetch search results from the Amazon w
 
    The server will be available at http://localhost:3000.
 
-4. Open the `index.html` in public file in a web browser.
+3. Open the `index.html` in public file in a web browser.
 
-5. Enter a keyword in the search box and click the "Search on Amazon" button.
+4. Enter a keyword in the search box and click the "Search on Amazon" button.
 
-6. Wait for the results to be displayed in the results section.
+5. Wait for the results to be displayed in the results section.
 
 ### Notes
 
