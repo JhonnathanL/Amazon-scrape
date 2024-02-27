@@ -42,4 +42,4 @@ This project is a web scraper designed to fetch search results from the Amazon w
 ### Notes
 
 - Ensure you have an internet connection as the web scraper relies on making requests to the Amazon website.
-- The project includes a `styles.css` file in the `css` directory to style the user interface. Feel free to customize as needed.
+- The project includes a `styles.css` file in the `css` directory to style the user interface. 
